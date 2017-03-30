@@ -1,4 +1,3 @@
-$( function() {
     $( ".img" ).draggable();
     
     // $( "nav" ).draggable();  		// only blue nav circle draggable
@@ -8,4 +7,3 @@ $( function() {
     // $( "#my-image" ).draggable();	// only cogwheel draggable
 
   
-}
