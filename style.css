@@ -70,6 +70,7 @@ body {
 	animation-name: img;
 	animation-delay: 1s;
 	animation-duration: 1s;
+	animation-direction: alternate-reverse;
 	animation-iteration-count: infinite;
 
 } 
