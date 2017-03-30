@@ -248,6 +248,7 @@ body {
 
 .img{
 	margin-left: 10%;
+	margin-top: -20%;
 	animation-name: img;
 	animation-delay: 1s;
 	animation-duration: 1s;
