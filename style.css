@@ -37,7 +37,7 @@ body {
 .img{
 	z-index: 5;
 	margin-left: 60%;
-	margin-top: -40%;
+	margin-top: -10%;
 	animation-name: img;
 	animation-delay: 1s;
 	animation-duration: 1s;
