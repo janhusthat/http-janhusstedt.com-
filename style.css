@@ -3,6 +3,7 @@ body {
 	font-family: 'Fakt Con Pro', sans-serif;	color: #000000;
 	margin: 0;
 	letter-spacing: 2px;
+	cursor: crosshair;
 	
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,24c6e2+100,7db9e8+100,207cca+100 */
 	background: #ffffff; /* Old browsers */
