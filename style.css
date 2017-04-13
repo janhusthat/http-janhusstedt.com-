@@ -33,6 +33,36 @@ body {
 
 }
 
+.title_extended {
+	z-index: 9;
+
+	font-size: 4.5em;
+	line-height: 1.0em;
+	font-style: Fakt Pro;
+	text-align: left;
+
+	text-rendering: optimizeLegibility;	
+
+	margin-top: 50px;
+	margin-left: 50px;
+
+}
+
+.title_con_bold {
+	z-index: 9;
+
+	font-size: 4.5em;
+	line-height: 1.0em;
+	font-style: Fakt Pro;
+	text-align: left;
+
+	text-rendering: optimizeLegibility;	
+
+	margin-top: 50px;
+	margin-left: 50px;
+
+}
+
 
 .img{
 	z-index: 5;
