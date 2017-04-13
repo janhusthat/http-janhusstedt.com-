@@ -1,6 +1,6 @@
 $( function() {
-    $( ".img" ).draggable();
-    
+    $( "img" ).draggable();
+   
     // $( "nav" ).draggable();  		// only blue nav circle draggable
     // $( ".arrow-up" ).draggable();  	// only yellow triangle draggable
     // $( ".arrow-up" ).draggable();  	// only red floating box draggable
