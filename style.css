@@ -19,6 +19,20 @@ body {
   padding: 0;
 }
 
+a {
+	z-index: 9;
+
+	font-size: 4.5em;
+	line-height: 1.0em;
+	font-style: Fakt Con Pro Blond;
+	text-align: left;
+
+	text-rendering: optimizeLegibility;	
+
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
 .title {
 	z-index: 9;
 
@@ -64,19 +78,7 @@ body {
 
 }
 
-a.link {
-	z-index: 9;
 
-	font-size: 4.5em;
-	line-height: 1.0em;
-	font-style: Fakt Con Pro Blond;
-	text-align: left;
-
-	text-rendering: optimizeLegibility;	
-
-	margin-top: 50px;
-	margin-left: 50px;
-}
 
 .img{
 	z-index: 5;
