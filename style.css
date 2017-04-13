@@ -18,10 +18,10 @@ body {
 }
 
 a {
-	font-style: Fakt Con Pro;
+	font-style: italic;
 	text-align: left;
 	text-rendering: optimizeLegibility;	
-	text-decoration: underline;
+	text-decoration: none;
 	color: black;
 	pointer-events: auto;
 
