@@ -18,10 +18,10 @@ body {
 }
 
 a {
-	font-style: italic;
+	font-style: Fakt Con Pro;
 	text-align: left;
 	text-rendering: optimizeLegibility;	
-	text-decoration: none;
+	text-decoration: underline;
 	color: black;
 	pointer-events: auto;
 
@@ -65,25 +65,33 @@ a {
 	margin-left: 5%;
 }
 
+#container {
+	
+}
+
 img{
 	z-index: 5;
-	animation-name: img;
-	animation-delay: 1s;
-	animation-duration: 1s;
-	animation-direction: alternate-reverse;
-	animation-iteration-count: infinite;
-	pointer-events: auto;
+
 	cursor: move;
 	cursor: -webkit-grab; 
 	cursor: -moz-grab;	
 
 } 
 
-@keyframes img {
+/*@keyframes img {
 	0%{-webkit-transform: rotate(0deg);}
-	10%{-webkit-left: 100px;}
-	15%{-webkit-top: 100px;}
-	25%{-webkit-transform: rotate(0.9deg);}
-    50%{-webkit-transform: rotate(-0.9deg)}
+	25%{-webkit-transform: rotate(random(-3deg / -0deg);}
+    50%{-webkit-transform: rotate(random (-5deg / -0deg);}
     100%{-webkit-transform: rotate(0deg);}
+}*/
+
+/*img:hover {
+  cursor: grab;
+  	animation-name: img;
+	animation-direction: alternate-reverse;
+	animation-iteration-count: infinite;
+	pointer-events: auto;
+  animation-play-state: running;
+}*/
+
 
